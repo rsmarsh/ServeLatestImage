@@ -1,0 +1,1 @@
+Images will be populated within this directory when the python script is running

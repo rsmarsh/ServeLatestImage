@@ -1,0 +1,14 @@
+{
+  "name": "serve-latest-image",
+  "version": "1.0.0",
+  "description": "serves the latest image from a folder ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@missingmarshall",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
